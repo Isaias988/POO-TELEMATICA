@@ -1,5 +1,5 @@
 package a;
-
+//O professor pediu para criarmos um classe carro, com os atributos de modelo, cor e velocidade. Criamos dois métodos para o carro acelerar e frear.
 public class Carro {
 	
 	String modelo;
